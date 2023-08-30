@@ -77,6 +77,10 @@ section .container{
 .social-links img{
     height: 2.4rem;
 }
+.social-links{
+    display: flex;
+    gap: 2rem;
+}
 ul li{
     display: inline;
     list-style: none;
